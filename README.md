@@ -10,7 +10,7 @@
  <a href="mailto:hk-axl-coder@proton.me">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
- <a href="https://github.com/Gideon-Yebei/Gideon-Yebei#readme">
+ <a href="https://github.com/Gideon-Yebei">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com">
