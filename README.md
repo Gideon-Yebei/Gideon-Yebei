@@ -1,4 +1,7 @@
 ### Hi there 👋
+ <p align="center">
+  <img src="https://github.com/Gideon-Yebei/Gideon-Yebei/blob/main/myLogo%20(1).png" alt="logo"/>
+ </p>
 
 <!--
 **Gideon-Yebei/Gideon-Yebei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +20,7 @@ Here are some ideas to get you started:
 <!---header --->
 <h1 align="left">Hello, there! 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
 
- <p align="center">
 
- </p>
 <!--header--->
 <!--Typing  svg-->
 <h1 align="center">
