@@ -1,4 +1,20 @@
-
+ 
+<!--let's connect-->
+<h1 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
+<p align='left'>
+  <a href="https://wa.me/+254757768262">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a>&nbsp;&nbsp;
+ <a href="mailto:hk-axl-coder@proton.me">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>&nbsp;&nbsp;
+ <a href="https://github.com/Gideon-Yebei/Gideon-Yebei">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+<!--let's connect-->
  <p align="center">
   <img src="https://github.com/Gideon-Yebei/Gideon-Yebei/blob/main/myLogo%20(1).png" alt="logo" width="300" height="300"/>
  </p>
