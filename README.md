@@ -18,7 +18,7 @@
   </a>&nbsp;&nbsp;
 <!--let's connect-->
  <p align="center">
-  <img src="https://github.com/Gideon-Yebei/Gideon-Yebei/blob/main/myLogo%20(1).png" alt="logo" width="300" height="300"/>
+  <img src="linux.png" alt="logo" width="300" height="300"/>
  </p>
 
 <!--
