@@ -1,5 +1,6 @@
  
 <!--let's connect-->
+<h1 align="center">WELCOME!!✨+EXPLORE+MY+WOLD+!</h1>
 <h1 align="center" style="color:yellow;margin-bottom: 20px;" >
  Let's Get In Touch ...
 </h1>  
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 <!--header--->
 <!--Typing  svg-->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'M+GIDEON+YEBEI!...;A+COMPUTER+SCIENTIST+...;A+JAVA+DEVELOPER+...;A+AI/ML+EXPLORER+...;WEB+DEVELOPER...;A+LINUX+GEEK+...;A+TERMINAL+WIZARD+...;WELCOME!!✨+EXPLORE+MY+WOLD+!🖤&center=true&size=20" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'M+GIDEON+YEBEI!...;A+COMPUTER+SCIENCE+MAJOR+...;A+JAVA+DEVELOPER+...;A+AI/ML+EXPLORER+...;WEB+DEVELOPER...;A+LINUX+GEEK+...;A+TERMINAL+WIZARD+...;WELCOME!!✨+EXPLORE+MY+WOLD+!🖤&center=true&size=20" alt="Typing SVG" /></a>
 </h1>
 <!--Typing svg-->
 <p align="center">
