@@ -1,6 +1,5 @@
  
 <!--let's connect-->
-<h1 align="center">WELCOME!!✨+EXPLORE+MY+WOLD+!</h1>
 <h1 align="center" style="color:yellow;margin-bottom: 20px;" >
  Let's Get In Touch ...
 </h1>  
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!---header --->
-<h1 align="center">Hello, there! 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
+<h1 align="center">Hello, there! >> WELCOME!!✨+ EXPLORE + MY + WOLD + ! 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
 
 
 <!--header--->
