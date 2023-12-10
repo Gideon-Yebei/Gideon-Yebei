@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 <!--let's connect-->
+<p align="center"><span>LINUX GREEK</span></p>
  <p align="center">
-  <span style="bold">LINUX GREEK</span>
   <img src="linux.png" alt="logo" width="300" height="300"/>
  </p>
 
