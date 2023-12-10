@@ -18,6 +18,7 @@
   </a>&nbsp;&nbsp;
 <!--let's connect-->
  <p align="center">
+  <span style="bold">LINUX GREEK</span>
   <img src="linux.png" alt="logo" width="300" height="300"/>
  </p>
 
