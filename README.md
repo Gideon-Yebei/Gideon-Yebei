@@ -144,8 +144,8 @@ php, photoshop
 blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
 -->
 
-<!--<details>-->
- <!-- <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>-->
+<details>
+ <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -180,7 +180,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-<!--</details>-->
+</details>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
