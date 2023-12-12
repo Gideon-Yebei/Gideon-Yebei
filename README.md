@@ -50,6 +50,10 @@ Here are some ideas to get you started:
   <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Gideon-Yebei&count_private=true&theme=dark&hide_border=true">
 </p>
 
+<p align="center">
+  📈 My GitHub stats:
+</p>
+
   <a align="center" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Yebei&layout=compact&theme=dark&langs_count=6&hide_border=true" width="75%"/>
   </a>
@@ -69,3 +73,7 @@ Here are some ideas to get you started:
 ### My Trophies
 ![trophies](https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
 <!--Trophies-->
+
+<p align="center">
+  🌟 Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.
+</p>
