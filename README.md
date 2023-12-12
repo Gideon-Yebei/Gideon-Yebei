@@ -4,9 +4,9 @@
  Let's Get In Touch ...
 </h1>  
 <p align='center'>
-  <a href="https://wa.me/+254702497805">
-   <img alt="Discord" src="https://img.shields.io/discord/1102114090417139732">
-  </a>&nbsp;&nbsp;
+ <a href="https://twitter.com/GideonYebei" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>&nbsp;&nbsp;
  <a href="mailto:hk-axl-coder@proton.me">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
