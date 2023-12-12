@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/gideon-yebei-9285572a4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+ <a align="center" href="https://github.com/Gideon-Yebei?tab=followers"></a>
+<img align="center" src="https://img.shields.io/github/followers/Gideon-Yebei?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+
 <!--let's connect-->
 <p align="center"><span>LINUX GEEK</span></p>
  <p align="center">
@@ -56,10 +59,6 @@ Here are some ideas to get you started:
   <a align="center" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Yebei&layout=compact&theme=dark&langs_count=6&hide_border=true" width="75%"/>
   </a>
-
-<a align="center" href="https://github.com/Gideon-Yebei?tab=followers"></a>
-<img align="center" src="https://img.shields.io/github/followers/Gideon-Yebei?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
-
 
 <!--Experience-->
 ### Experience
