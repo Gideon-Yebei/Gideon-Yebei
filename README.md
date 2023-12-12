@@ -68,14 +68,7 @@ Here are some ideas to get you started:
 </p>
 <!--Experience-->
 
-<!--Trophies-->
-### My Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
-<!--Trophies-->
 
-<p align="center">
-  🌟 Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.
-</p>
 <!--############################ ADDED ##################################-->
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
@@ -189,7 +182,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 </details>
 
-<details>
+<!--<details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
@@ -211,4 +204,12 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
+</p>-->
+<!--Trophies-->
+### My Trophies
+![trophies](https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
+<!--Trophies-->
+
+<p align="center">
+  🌟 Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.
 </p>
