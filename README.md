@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/gideon-yebei-9285572a4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a align="center" href="https://github.com/Gideon-Yebei?tab=followers">
-   <img align="center" src="https://img.shields.io/github/followers/Gideon-Yebei?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+  <a href="https://github.com/Gideon-Yebei?tab=followers">
+   <img src="https://img.shields.io/github/followers/Gideon-Yebei?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 
 <!--let's connect-->
