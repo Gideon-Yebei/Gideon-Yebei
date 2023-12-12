@@ -5,8 +5,8 @@
 </h1>  
 <p align='center'>
   <a href="https://wa.me/+254702497805">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- </a>&nbsp;&nbsp;
+   <img alt="Discord" src="https://img.shields.io/discord/1102114090417139732">
+  </a>&nbsp;&nbsp;
  <a href="mailto:hk-axl-coder@proton.me">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
