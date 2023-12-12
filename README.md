@@ -31,8 +31,8 @@
 
 ## My Trophies
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&theme=transparent&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest)]
-[![h](https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&theme=transparent&text_color=434c22&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars)]
+![Trophy](https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&theme=transparent&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest)
+![h](https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&theme=transparent&text_color=434c22&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars)
 
 ![Views](https://komarev.com/ghpvc/?username=Gideon-Yebei&style=plastic&label=Views)
 ![Visits](https://badges.pufler.dev/visits/Gideon-Yebei/Gideon-Yebei?color=black&logo=github)
