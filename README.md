@@ -47,11 +47,10 @@ Here are some ideas to get you started:
 </h1>
 <!--Typing svg-->
 <p align="center">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Gideon-Yebei&count_private=true&theme=dark&hide_border=true">
-</p>
-
-<p align="center">
   📈 My GitHub stats:
+</p>
+<p align="center">
+  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Gideon-Yebei&count_private=true&theme=dark&hide_border=true">
 </p>
 
   <a align="center" href="https://github.com/anuraghazra/convoychat">
