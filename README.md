@@ -3,6 +3,7 @@
 ![Hi](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82)
 
 ## Let's 📬 Get In Touch :✉️: Reach Out
+<iframe src="https://discord.com/widget?id=1186145742335791154&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 [![TWITTER](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/GideonYebei) &nbsp;&nbsp;&nbsp;
 [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hk-axl-coder@proton.me) &nbsp;&nbsp;&nbsp;
