@@ -1,16 +1,47 @@
-# GIDEON : : YEBEI 🧑‍💻 LINUX : : GEEK
+<h1 style="text-align: center; background: linear-gradient(to right, #ff25, #00f); -webkit-background-clip: text; color: transparent;">
 
-![Hi](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82)
+GIDEON : : YEBEI 🧑‍💻 LINUX : : GEEK
 
-## Let's 📬 Get In Touch :✉️: Reach Out
+Code Wizard 🧙‍♂️ | Arch Linux Enthusiast
 
-[![TWITTER](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/GideonYebei) &nbsp;&nbsp;&nbsp;[![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hk-axl-coder@proton.me) &nbsp;&nbsp;&nbsp;[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Gideon-Yebei) &nbsp;&nbsp;&nbsp;[![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-yebei-9285572a4/)
+</h1>
+
+<!-- <img align="left" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" width=350> -->
+<p style="font-size: 30px; color: #ff25;">
+    Hey there! I'm the Code Wizard 🧙‍♂️. Welcome to my digital realm where I conjure lines of code and dance with the elegance of Linux, especially Arch Linux.
+    With my keyboard as my wand, I cast spells in the form of scripts and programs, exploring the enchanting world of computing.
+    Arch Linux is my preferred magic school – its minimalist philosophy and rolling-release spells captivate my coding spirit.
+    Join me on this quest for perfect code, seamless workflows, and the endless possibilities of the command line!
+    Let's create some magic together! ✨🐧💻
+</p>
+<!--
+![Hi](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82)-->
+
+<h1 style="text-align: center; color: #ff25;">Let's 📬 Get In Touch :✉️: Reach Out</h1>
+
+<div style="text-align: center;">
+    <a href="https://twitter.com/GideonYebei" style="margin: 10px;">
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" width="150">
+    </a>
+    <a href="mailto:hk-axl-coder@proton.me" style="margin: 10px;">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red" width="150">
+    </a>
+    <a href="https://github.com/Gideon-Yebei" style="margin: 10px;">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" width="150">
+    </a>
+    <a href="https://www.linkedin.com/in/gideon-yebei/" style="margin: 10px;">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="150">
+    </a>
+</div>
 
 ---
 
-![LINUX : : GEEK](linux.png) <p>hello</p>
+<img align="left" alt="Linux" style="margin: 10px;border-radius: 15px" src="code.gif" width=500>
+<img align="right" alt="Linux" style="margin: 10px;" src="linux.png" width=400>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gideon-Yebei&theme=transparent&repo=MongoDB-JAVA-CLUB-SYSTEM)](https://github.com/Gideon-Yebei/MongoDB-JAVA-CLUB-SYSTEM)
+
+---
 
 ![STATS](https://i.imgur.com/YCw47Dm.gif)
 
