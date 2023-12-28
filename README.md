@@ -1,11 +1,11 @@
 <div align="center">
     <img src="linux.png" width=150/>
 </div>
-<h2 align="center"">
+<div align="center"">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=5000&repeat=true&multiline=true&random=false&width=600&height=70&lines=GIDEON+%3A%3A+YEBEI+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+LINUX+%3A%3A+GEEK;CODE+WIZARD+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+ENTHUSIAST" alt="Typing SVG" />
     </a>
-</h2>
+</div>
 <h2 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=869750&center=true&vCenter=true&random=true&width=435&lines=Linux+Enthusiast;Software+Developer;Web+developer;Java" alt="Typing SVG" />
