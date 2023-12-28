@@ -136,10 +136,10 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
     <img align="left" alt="Linux" style="margin: 10px;" src="code.gif" width=700>
     <img align="right" style="margin: 10px;" src="https://spotify-github-profile.vercel.app/api/view?uid=31cqwbo2kaamwykjzxgm44j6aexu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"  width=400 />
-</div>
+</div>-->
 <div align="right">
     <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
 </div>
