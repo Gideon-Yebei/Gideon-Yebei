@@ -14,7 +14,7 @@
 
 ---
 
-### Greetings from the digital frontier! 👋 I'm a passionate computer science student, on a relentless quest to evolve into a formidable full-stack developer. 💻 My heart beats in the rhythm of web development, where every line of code is a brushstroke on the canvas of innovation. Driven by a desire to contribute to the global tech ecosystem, I embrace challenges with a mindset fueled by innovation and collaboration.
+### Greetings, wanderer of the digital realms! 🌐 👋 I'm a passionate computer science student, on a relentless quest to evolve into a formidable full-stack developer. 💻 My heart beats in the rhythm of web development, where every line of code is a brushstroke on the canvas of innovation. Driven by a desire to contribute to the global tech ecosystem, I embrace challenges with a mindset fueled by innovation and collaboration.
 
 ### In the realm of technology, I am more than a mere enthusiast; I am a tech virtuoso, constantly honing my skills to transcend traditional boundaries. As I dance between the front-end and back-end realms, my aim is to orchestrate code that not only functions flawlessly but also tells a compelling digital story.
 
