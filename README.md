@@ -17,20 +17,28 @@
 </h2>
 -->
 ---
+
 <p align="center">
 Greetings, wanderer of the digital realms! 🌐 👋 I'm a passionate computer science student, on a relentless quest to evolve into a formidable full-stack developer. 💻 My heart beats in the rhythm of web development, where every line of code is a brushstroke on the canvas of innovation. Driven by a desire to contribute to the global tech ecosystem, I embrace challenges with a mindset fueled by innovation and collaboration.
 </p>
-### In the realm of technology, I am more than a mere enthusiast; I am a tech virtuoso, constantly honing my skills to transcend traditional boundaries. As I dance between the front-end and back-end realms, my aim is to orchestrate code that not only functions flawlessly but also tells a compelling digital story.
-
-### Enthusiastically embracing the elegance of Linux, Arch Linux is my preferred OS, where I weave the magic of technology. 🐧 Open source software is not just a preference for me; it's a way of life. I breathe in the collaborative spirit of the tech community, contributing and learning in this ever-evolving ecosystem.
-
-### 🚀 My coding journey is a symphony of algorithms and creativity, where each project is a testament to my commitment to perfection. Embracing challenges, I find joy in crafting seamless solutions that elevate user experiences.
-
-### As I navigate the vast landscape of technology, I am dedicated to the principles of open source, innovation, and continuous learning.
-
-### Let's connect and create something extraordinary together! 🌐✨
-
-### #CIsFun #JavaJoy #ShellScripting #ObjectOrientedObsession #FullStackDeveloperInProgress #WebDev #ArchLinux #DoHardThings
+<p align="center">
+In the realm of technology, I am more than a mere enthusiast; I am a tech virtuoso, constantly honing my skills to transcend traditional boundaries. As I dance between the front-end and back-end realms, my aim is to orchestrate code that not only functions flawlessly but also tells a compelling digital story.
+</p>
+<p align="center">
+Enthusiastically embracing the elegance of Linux, Arch Linux is my preferred OS, where I weave the magic of technology. 🐧 Open source software is not just a preference for me; it's a way of life. I breathe in the collaborative spirit of the tech community, contributing and learning in this ever-evolving ecosystem.
+</p>
+<p align="center">
+🚀 My coding journey is a symphony of algorithms and creativity, where each project is a testament to my commitment to perfection. Embracing challenges, I find joy in crafting seamless solutions that elevate user experiences.
+</p>
+<p align="center">
+As I navigate the vast landscape of technology, I am dedicated to the principles of open source, innovation, and continuous learning.
+</p>
+<p align="center">
+Let's connect and create something extraordinary together! 🌐✨
+</p>
+<p align="center">
+#CIsFun #JavaJoy #ShellScripting #ObjectOrientedObsession #FullStackDeveloperInProgress #WebDev #ArchLinux #DoHardThings
+</p>
 
 ---
 
