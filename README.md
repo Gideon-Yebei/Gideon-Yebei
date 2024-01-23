@@ -3,12 +3,12 @@
 </div>
 <div align="center"">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=5000&repeat=true&multiline=true&random=false&width=600&height=70&lines=GIDEON+%3A%3A+YEBEI+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+LINUX+%3A%3A+GEEK;C+,+JAVA+Programmer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+USER" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=5000&repeat=true&multiline=true&random=false&width=600&height=70&lines=GIDEON+%3A%3A+YEBEI+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+LINUX+%3A%3A+GEEK;C,JAVA+Programmer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+USER" alt="Typing SVG" />
     </a>
 </div>
 <h2 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=869750&center=true&vCenter=true&random=true&width=435&lines=Linux+Enthusiast;Software+Developer;Web+developer;Java" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;Web+developer;Java" alt="Typing SVG" />
     </a>
 </h2>
 
