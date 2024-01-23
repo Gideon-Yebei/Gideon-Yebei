@@ -1,12 +1,13 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=+%5BGY%40arch+~%5D%24+echo" alt="Typing SVG" /></a>
 <div align="center">
     <img src="linux.png" width=150/>
 </div>
 <div align="center"">
     <a align="center" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=5000&repeat=true&multiline=true&random=false&width=600&height=70&lines=C,JAVA+Programmer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+USER" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=8000&repeat=true&multiline=true&random=false&width=600&height=70&lines=*C,JAVA+Programmer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+USER" alt="Typing SVG" />
     </a>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;Web+developer;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=5000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;Web+developer;" alt="Typing SVG" />
     </a>
 </div>
 <!--
@@ -43,7 +44,7 @@ Let's connect and create something extraordinary together! 🌐✨
 
 ---
 
-<h2 align="center" style="color: #ff25;">Let's 📬 Get In Touch :✉️: Reach Out</h2>
+<h2 align="center" style="color: #ff25;">:: Let's 📬 Get In Touch ✉️ Reach Out ::</h2>
 <div align="center">
     <a href="https://github.com/Gideon-Yebei" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -77,7 +78,11 @@ Let's connect and create something extraordinary together! 🌐✨
 </div>
 
 ---
-
+<div align="center">
+    <h2 align="center style="color: #ff25;">::SKILL SET::</h2>
+    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,dotnet,sql,html,css,js,linux,bash,perl,lua,docker,github,idea,vscode,git,figma,blender,mysql,mongodb,heroku,vercel,nginx,wordpress,webflow" />
+</div>
+<!--
 <div align="center">
 
 <h2  style="color: #ff25;">SKILL : : SET</h2>
@@ -104,6 +109,7 @@ Let's connect and create something extraordinary together! 🌐✨
     <h2  style="color: #ff25;">👨‍💻 LANGUAGES</h2>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,dotnet,sql" />
 </div>
+-->
 
 ---
 
