@@ -26,7 +26,7 @@
 
 ### 🚀 My coding journey is a symphony of algorithms and creativity, where each project is a testament to my commitment to perfection. Embracing challenges, I find joy in crafting seamless solutions that elevate user experiences.
 
-### As I navigate the vast landscape of technology, I am dedicated to the principles of open source, innovation, and continuous learning. Join me on this exhilarating journey as I code my way towards excellence.
+### As I navigate the vast landscape of technology, I am dedicated to the principles of open source, innovation, and continuous learning.
 
 ### Let's connect and create something extraordinary together! 🌐✨
 
