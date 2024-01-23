@@ -16,8 +16,9 @@
     </a>
 </h2>
 -->
----
 
+---
+<div style"border=
 <p align="center">
 Greetings, wanderer of the digital realms! 🌐 👋 I'm a passionate computer science student, on a relentless quest to evolve into a formidable full-stack developer. 💻 My heart beats in the rhythm of web development, where every line of code is a brushstroke on the canvas of innovation. Driven by a desire to contribute to the global tech ecosystem, I embrace challenges with a mindset fueled by innovation and collaboration.
 </p>
