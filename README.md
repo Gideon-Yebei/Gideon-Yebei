@@ -4,10 +4,10 @@
 </div>
 <div align="center"">
     <a align="center" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=8000&repeat=true&multiline=true&random=false&width=600&height=70&lines=*C,JAVA+Programmer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+USER" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&repeat=true&multiline=true&random=false&width=600&height=70&lines=*C,JAVA+Programmer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+USER" alt="Typing SVG" />
     </a>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=5000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;Web+developer;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;Web+developer;" alt="Typing SVG" />
     </a>
 </div>
 <!--
