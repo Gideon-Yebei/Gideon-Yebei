@@ -1,10 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=+%5BGY%40arch+~%5D%24+cat README.md" alt="Typing SVG" /></a>
-<div align="center">
+<!--<div align="center">
     <img src="linux.png" width=150/>
-</div>
+</div>-->
 <div align="center"">
     <a align="center" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&repeat=false&multiline=true&random=false&width=600&height=70&lines=*C,JAVA+Programmer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+ARCH+LINUX+USER" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&repeat=false&multiline=true&center=true&random=false&width=600&height=70&lines=*C,JAVA,.NET+Programmer" alt="Typing SVG" />
     </a>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;Web+developer;" alt="Typing SVG" />
@@ -20,7 +20,28 @@
 
 ---
 
-<p align="center">
+<div align="center">
+    <h2>
+        Greetings, wanderer of the digital realms! 🌐 👋 I'm a passionate computer science student, on a relentless quest to evolve into a formidable full-stack developer. 💻 My passion lies in web development,mobile and desktop app development.
+    </h2>
+</div>
+<div align="center">
+    <h2>
+        Driven by a desire to contribute to the global tech ecosystem, I embrace challenges with a mindset fueled by innovation and collaboration. I am dedicated to the principles of open source, innovation, and continuous learning. Enthusiastically embracing the elegance of Linux 👌👌
+    </h2>
+</div>
+<div align="center">
+    <h2>
+        Let's connect and create something extraordinary together! 🌐✨
+    </h2>
+</div>
+<div align="center">
+    <h4>
+        #CIsFun #JavaJoy #ShellScripting #ObjectOrientedObsession #FullStackDeveloperInProgress #WebDev #ArchLinux #DoHardThings
+    </h4>
+</div>
+
+<!--<p align="center">
 Greetings, wanderer of the digital realms! 🌐 👋 I'm a passionate computer science student, on a relentless quest to evolve into a formidable full-stack developer. 💻 My heart beats in the rhythm of web development, where every line of code is a brushstroke on the canvas of innovation. Driven by a desire to contribute to the global tech ecosystem, I embrace challenges with a mindset fueled by innovation and collaboration.
 </p>
 <p align="center">
@@ -34,13 +55,8 @@ Enthusiastically embracing the elegance of Linux, Arch Linux is my preferred OS,
 </p>
 <p align="center">
 As I navigate the vast landscape of technology, I am dedicated to the principles of open source, innovation, and continuous learning.
-</p>
-<p align="center">
-Let's connect and create something extraordinary together! 🌐✨
-</p>
-<p align="center">
-#CIsFun #JavaJoy #ShellScripting #ObjectOrientedObsession #FullStackDeveloperInProgress #WebDev #ArchLinux #DoHardThings
-</p>
+</p>-->
+
 
 ---
 
