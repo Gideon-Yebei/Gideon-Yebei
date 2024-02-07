@@ -73,7 +73,9 @@
     <h2 align="center style="color: #ff25;">::SKILL SET::</h2>
     <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,dotnet,sql,html,css,js,linux,bash,perl,lua,docker,github,idea,vscode,git,figma,blender,mysql,mongodb,heroku,vercel,nginx,wordpress,webflow" />
 </div>
+
 <!--
+
 <div align="center">
 
 <h2  style="color: #ff25;">SKILL : : SET</h2>
@@ -104,30 +106,40 @@
 
 ---
 
+<!--
+
 <h3 align="center">
     <img src="https://i.imgur.com/YCw47Dm.gif" />
 </h3>
-<p>
+<div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Gideon-Yebei's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gideon-Yebei&theme=monokai&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="192px"/>
     </a>
+</div>
+<div>
     <a href="https://github.com/Gideon-Yebei/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gideon's streak" src="https://streak-stats.demolab.com/?user=Gideon-Yebei&theme=monokai&hide_border=true"/>
     </a>
+</div>
+<div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Gideon-Yebei's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Yebei&langs_count=8&layout=compact&theme=monokai&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </a>
+</div>
+<div>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="Gideon-Yebei's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Gideon-Yebei&theme=monokai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     </a>
-</p>
+</div>
+
+-->
+
 <!--🏆TROPHYGIF-->
 <!--![Trophy](https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif)-->
 
-## MY :🏆: TROPHIES
+<!--## MY :🏆: TROPHIES-->
 
 <!--https://github.com/ryo-ma/github-profile-trophy-->
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&no-bg=true&no-frame=true"/>
 </p>
@@ -153,6 +165,8 @@
     <img align="left" alt="Linux" style="margin: 10px;" src="code.gif" width=700>
     <img align="right" style="margin: 10px;" src="https://spotify-github-profile.vercel.app/api/view?uid=31cqwbo2kaamwykjzxgm44j6aexu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"  width=400 />
 </div>-->
+<!--
 <div align="right">
     <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
 </div>
+-->
