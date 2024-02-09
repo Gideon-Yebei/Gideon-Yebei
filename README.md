@@ -106,8 +106,6 @@
 
 ---
 
-<!--
-
 <h3 align="center">
     <img src="https://i.imgur.com/YCw47Dm.gif" />
 </h3>
@@ -131,8 +129,6 @@
         <img alt="Gideon-Yebei's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Gideon-Yebei&theme=monokai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     </a>
 </div>
-
--->
 
 <!--🏆TROPHYGIF-->
 <!--![Trophy](https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif)-->
