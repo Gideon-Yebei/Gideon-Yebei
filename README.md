@@ -3,11 +3,11 @@
     <img src="linux.png" width=150/>
 </div>-->
 <div align="center"">
-    <a align="center" href="https://git.io/typing-svg">
+   <!-- <a align="center" href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&repeat=false&multiline=true&center=true&random=false&width=600&height=70&lines=*C,JAVA,.NET+Programmer" alt="Typing SVG" />
-    </a>
+    </a> -->
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;Web+developer;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;" alt="Typing SVG" />
     </a>
 </div>
 
@@ -15,23 +15,23 @@
 
 <div align="center">
     <h2>
-        Greetings, wanderer of the digital realms! 🌐 👋 I'm a passionate computer science student, on a relentless quest to evolve into a formidable full-stack developer. 💻 My passion lies in web development,mobile and desktop app development. Also working on enhancing my AI/ML knowledge.
+        Ahoy, fellow explorer 🌐 👋 As a passionate student of computer scientist, I am on an epic quest to 
+ evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms. I am also delving into the depths of AI/ML, exploring their potential to reshape our digital landscape and committed to the noble cause of cybersecurity.
     </h2>
 </div>
 <div align="center">
     <h2>
-        Driven by a desire to contribute to the global tech ecosystem, I embrace challenges with a mindset fueled by innovation and collaboration. I am dedicated to the principles of open source, innovation, and continuous learning. Enthusiastically embracing the elegance of Linux 👌👌
+        Driven by a passion for tech, I embrace challenges with a mindset fueled by innovation and collaboration, valuing the principles of open source, innovation, and continuous learning.
     </h2>
 </div>
+<!--
 <div align="center">
-    <h2>
-        Let's connect and create something extraordinary together! 🌐✨
-    </h2>
+    <h4>
+        #CIsFun    #LearnJava    #AI/ML    #ObjectOrientedObsession    #FullStackDeveloperInProgress
+        #WebDev    #ArchLinux    #ShellScripting    #DoHardThings    #HackThePlanet
+    </h4>
 </div>
-<div align="center">
-    <h4>#CIsFun #JavaJoy #AI/ML #ObjectOrientedObsession #FullStackDeveloperInProgress </h4>
-    <h4>#WebDev #ArchLinux #ShellScripting#DoHardThings</h4>
-</div>
+-->
 
 ---
 
