@@ -69,10 +69,45 @@
 </div>
 
 ---
+
 <div align="center">
     <h2 align="center style="color: #ff25;">::SKILL SET::</h2>
-    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,dotnet,sql,html,css,js,linux,bash,perl,lua,docker,github,idea,vscode,git,figma,blender,mysql,mongodb,heroku,vercel,nginx,wordpress,webflow" />
+    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,dotnet" />
 </div>
+<div align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js" /> 
+</div>
+<div align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=mysql,mongodb,heroku,vercel,nginx,wordpress" />
+</div>
+<div align="center">
+     <img align="center" src="https://skillicons.dev/icons?i=docker,github,git,figma,linux,bash" />
+</div>
+
+<!--
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![AWS Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+
+**Tools and Services:**
+
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Vercel](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=6aa6f8)
+
+-->
 
 <!--
 
