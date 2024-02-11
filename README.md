@@ -15,7 +15,7 @@
 
 <div align="center">
     <h2>
-        Ahoy, fellow explorer 🌐 👋 As a passionate student of computer scientist, I am on an epic quest to 
+        Ahoy, fellow explorer 🌐 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> As a passionate student of computer scientist, I am on an epic quest to 
  evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms. I am also delving into the depths of AI/ML, exploring their potential to reshape our digital landscape and committed to the noble cause of cybersecurity.
     </h2>
 </div>
@@ -106,6 +106,7 @@
 
 ---
 
+<!--
 <h3 align="center">
     <img src="https://i.imgur.com/YCw47Dm.gif" />
 </h3>
@@ -129,6 +130,8 @@
         <img alt="Gideon-Yebei's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Gideon-Yebei&theme=monokai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     </a>
 </div>
+
+-->
 
 <!--🏆TROPHYGIF-->
 <!--![Trophy](https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif)-->
