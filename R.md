@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=+%5BGY%40arch+~%5D%24+cat README.md" alt="Typing SVG" /></a>
 <!--<div align="center">
     <img src="linux.png" width=150/>
