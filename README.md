@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Gideon-Yebei/Portfolio-Variant">
       <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&repeat=false&center=false&vCenter=true&random=true&width=435&lines=Just+Creating+..." alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=false&random=true&width=435&lines=Just+Creating+.+.+." alt="Typing SVG"
       />
    </a>
 
