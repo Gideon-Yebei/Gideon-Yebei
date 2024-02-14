@@ -1,11 +1,11 @@
 <!-- markdownlint-disable MD033 -->
 # 
 
-<a href="https://github.com/Gideon-Yebei/Portfolio-Variants">
+<!--<a href="https://github.com/Gideon-Yebei/Portfolio-Variants">
       <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&repeat=false&center=true&vCenter=false&random=true&width=435&lines=Just+Creating+.+.+." alt="Typing SVG"
       />
-   </a>
+   </a>-->
 
 <div align="center"">
    <a href="https://git.io/typing-svg">
