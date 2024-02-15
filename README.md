@@ -25,7 +25,7 @@
 
 ---
 
-> <h2 align="center">: : Let's 📬 Get In Touch ✉️ Reach Out : :</h2>
+<!-- <h2 align="center">: : Let's 📬 Get In Touch ✉️ Reach Out : :</h2>-->
 
 <div align="center">
    <a href="https://github.com/Gideon-Yebei" target="_blank">
