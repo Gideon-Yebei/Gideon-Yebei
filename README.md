@@ -79,7 +79,7 @@
 
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <div align="center">
-        <h3>👨‍💻 Programming and Markup Languages</h3>
+        <!--<h3>👨‍💻 Programming and Markup Languages</h3>-->
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava">
                 <img alt="Java"
                 src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
@@ -123,7 +123,7 @@
   </div>
 
   <div align="center">
-        <h3>🧰 Frameworks and Libraries</h3>
+        <!--<h3>🧰 Frameworks and Libraries</h3>-->
         <a href="#">
                 <img
                         alt=".NET"
@@ -133,7 +133,7 @@
   </div>
 
   <div align="center">
-        <h3>🗄️ Databases and Cloud Hosting</h3>
+        <!--<h3>🗄️ Databases and Cloud Hosting</h3>-->
         <a href="#">
                 <img
                         alt="GitHub Pages"
@@ -167,7 +167,7 @@
   </div>
 
   <div align="center">
-        <h3>💻 Software and Tools</h3>
+        <!--<h3>💻 Software and Tools</h3>-->
         <a href="#">
                 <img
                         alt="Arch Linux"
@@ -196,7 +196,7 @@
         </a>
   </div>
 
-> <h2 align="center">: : 💻 GitHub Profile Stats : :</h2>
+> <!--<h2 align="center">: : 💻 GitHub Profile Stats : :</h2>-->
 
 <div align="center">
         <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
