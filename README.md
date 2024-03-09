@@ -88,10 +88,165 @@
 
   <h3>👨‍💻 Programming Languages</h3>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac">
+<a href="#">
     <img
         alt="C"
-        src="icons/c.png"
+        src="icons/c.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/cpp.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/csharp.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/vbnet.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/java.svg"
+        height=55
+    />
+</a>
+
+  <h3>🌐 Web Development</h3>
+
+<a href="#">
+    <img
+        alt="C"
+        src="icons/html5.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/css3.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/js.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/php.svg"
+        height=55
+    />
+</a>
+
+  <h3>Scripting Languages</h3>
+
+<a href="#">
+    <img
+        alt="C"
+        src="icons/bash-1.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/powershell.svg"
+        height=55
+    />
+</a>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+<a href="#">
+    <img
+        alt="C"
+        src="icons/mongodb.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/mariadb.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/mysql.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/vercel-1.svg.png"
+        height=30
+    />
+</a>
+
+  <h3>Dev Ops</h3>
+
+<a href="#">
+    <img
+        alt="C"
+        src="icons/docker.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/git.svg"
+        height=55
+    />
+</a>
+
+  <h3>💻 Software and Tools</h3>
+
+<a href="#">
+    <img
+        alt="C"
+        src="icons/archlinux.png"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/jetbrains.png"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/discord.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/slack.svg"
         height=55
     />
 </a>
