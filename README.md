@@ -79,3 +79,21 @@
 </a>
 
 </div>
+
+<h2 align="center" style="color: #ff25;">
+🛠️ My Favorite Tools
+</h2>
+
+<div align="center">
+
+  <h3>👨‍💻 Programming Languages</h3>
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac">
+    <img
+        alt="C"
+        src="icons/c.png"
+        height=55
+    />
+</a>
+
+</div>
