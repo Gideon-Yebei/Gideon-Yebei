@@ -82,11 +82,7 @@
 
 <details>
 
-<summary>
-<h2 align="center" style="color: #ff25;">
-🛠️ My Favorite Tools
-</h2>
-</summary>
+<summary>🛠️ MY FAVORITE TOOLS</summary>
 
 <div align="center">
 
