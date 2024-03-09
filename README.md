@@ -155,6 +155,30 @@
     />
 </a>
 
+  <h3>🧰 Frameworks and Libraries</h3>
+
+<a href="#">
+    <img
+        alt="C"
+        src="icons/vaadin.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/spring.svg"
+        height=55
+    />
+</a>
+<a href="#">
+    <img
+        alt="C"
+        src="icons/microsoft-net-framework.png"
+        height=55
+    />
+</a>
+
   <h3>Scripting Languages</h3>
 
 <a href="#">
