@@ -80,9 +80,13 @@
 
 </div>
 
+<details>
+
+<summary>
 <h2 align="center" style="color: #ff25;">
 🛠️ My Favorite Tools
 </h2>
+</summary>
 
 <div align="center">
 
@@ -252,3 +256,5 @@
 </a>
 
 </div>
+
+</details>
