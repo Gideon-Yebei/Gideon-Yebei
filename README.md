@@ -17,6 +17,8 @@
 
 </div>
 
+---
+
 <h2 align="center" style="color: #ff25;">
 ~ Let's 📬 Get In Touch ✉️ Reach Out ~
 </h2>
@@ -102,6 +104,8 @@
 </a>
 
 </div>
+
+---
 
 <details>
 
@@ -316,6 +320,8 @@
 
 </details>
 
+---
+
 <div align="center">
 
 <a href="#">
@@ -324,6 +330,9 @@
         src="https://github-profile-trophy.vercel.app/?username=Gideon-Yebei&no-bg=true&no-frame=true"
     />
 </a>
+
+---
+
 <a href="#">
     <img
         alt="trophies"
