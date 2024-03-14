@@ -6,7 +6,7 @@
 <div align="center">
 
 <h1 align="center" style="color: #ff25;">
- [Gideon-Yebei]$ Ahoy, fellow explorer! 🌐 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+ Ahoy, fellow explorer! 🌐 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
 >##  As a devoted disciple of computer science, I'm on an epic quest to evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms
