@@ -19,6 +19,11 @@
 
 ---
 
+<h2 align="center">
+  portfolio website here:
+  <a href="https://echosodyssey.rf.gd" target="\_blank">https://echosodyssey.rf.gd</a>
+</h2>
+
 <h2 align="center" style="color: #ff25;">
 ~ Let's 📬 Get In Touch ✉️ Reach Out ~
 </h2>
