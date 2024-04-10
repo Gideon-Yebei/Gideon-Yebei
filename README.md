@@ -132,7 +132,7 @@
 
 <table>
 	<tr>
-		<td colspan="5" align="center">
+		<td align="center">
 			<h2>Programming Languages</h2>
 		</td>
 	</tr>
@@ -159,7 +159,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="4" align="center">
+		<td align="center">
 			<h2>Web Development</h2>
 		</td>
 	</tr>
@@ -179,14 +179,9 @@
 				<img src="./svg/js.svg" alt="JavaScript" height=55 />
 			</a>
 		</td>
-		<td>
-			<a href="#">
-				<img src="./svg/php.svg" alt="PHP" height=55 />
-			</a>
-		</td>
 	</tr>
 	<tr>
-		<td colspan="4" align="center">
+		<td align="center">
 			<h3>🧰 Frameworks and Libraries</h3>
 		</td>
 	</tr>
