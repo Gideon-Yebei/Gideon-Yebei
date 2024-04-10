@@ -6,25 +6,40 @@
 
 <div align="center">
 
-<h1 align="center" style="color: #ff25;">
- 	Ahoy, fellow explorer!
-	<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
-</h1>
-
 <table align="center">
 	<tr>
+		<td align="center">
+			<h2>Ahoy, fellow explorer!</h2>
+		</td>
+		<td align="center">
+			<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
 		<td>
-			As a devoted disciple of computer science, I'm on an epic quest to evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms
+			<h3>
+				👨‍💻 I'm Gideon, a passionate software engineer and tech enthusiast from Kenya 🇰🇪
+			</h3>
+			<h3>
+				As a devoted disciple of computer science, I'm on an epic quest to evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms
+			</h3>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			I'm also diving deep into the realms of AI/ML, fascinated by their potential to revolutionize our digital world, all while championing the noble cause of cybersecurity
+			<h3>
+				I'm also diving deep into the realms of AI/ML, fascinated by their potential to revolutionize our digital world, all while championing the noble cause of cybersecurity
+			</h3>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			Fueled by my passion for tech, I eagerly tackle challenges with an innovative and collaborative mindset, holding dear the values of **open source, progress, and lifelong learning. 🚀**
+			<h3>
+				Fueled by my passion for tech, I eagerly tackle challenges with an innovative and collaborative mindset, holding dear the values of **open source, progress, and lifelong learning. 🚀**
+			</h3>
 		</td>
 	</tr>
 </table>
@@ -104,7 +119,7 @@
 <div align="center">
 
 <table>
-	<thead>Programming Languages</thead>
+	<thead><h2>Programming Languages</h2></thead>
 	<tr>
 		<td>
 			<a href="#">
@@ -135,7 +150,7 @@
 </table>
 
 <table>
-	<thead>Web Development</thead>
+	<thead><h2>Web Development</h2></thead>
 	<tr>
 		<td>
 			<a href="#">
@@ -166,12 +181,15 @@
 
 ---
 
-<p align="center">
- <b>
- 	Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- </b>
-</p>
-
+<table align="center">
+	<tr>
+		<td align="center">
+			<b>
+				Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+			</b>
+		</td>
+	</tr>
+</table>
 
 <details>
 
