@@ -9,7 +9,7 @@
 <table align="center">
 	<tr>
 		<td align="center">
-			Ahoy, fellow explorer!
+			<h2>Ahoy, fellow explorer!</h2>
 		</td>
 		<td align="center">
 			<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
@@ -42,7 +42,7 @@
 	<tr>
 		<td>
 			<h3>
-				Fueled by my passion for tech, I eagerly tackle challenges with an innovative and collaborative mindset, holding dear the values of **open source, progress, and lifelong learning. 🚀**
+				Fueled by my passion for tech, I eagerly tackle challenges with an innovative and collaborative mindset, holding dear the values of open source, progress, and lifelong learning. 🚀
 			</h3>
 		</td>
 	</tr>
