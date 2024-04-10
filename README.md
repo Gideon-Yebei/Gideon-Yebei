@@ -157,6 +157,11 @@
 				<img src="./svg/java.svg" alt="Java" height=55 />
 			</a>
 		</td>
+		<td>
+			<a href="#">
+				<img src="./svg/python.svg" alt="Java" height=55 />
+			</a>
+		</td>
 	</tr>
 	<tr>
 		<td colspan="1000" align="center">
@@ -177,6 +182,11 @@
 		<td>
 			<a href="#">
 				<img src="./svg/js.svg" alt="JavaScript" height=55 />
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img src="./svg/wordpress.svg" alt="Java" height=55 />
 			</a>
 		</td>
 	</tr>
