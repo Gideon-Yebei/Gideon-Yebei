@@ -131,7 +131,11 @@
 <div align="center">
 
 <table>
-	<thead><h2>Programming Languages</h2></thead>
+	<tr>
+		<td colspan="5" align="center">
+			<h2>Programming Languages</h2>
+		</td>
+	</tr>
 	<tr>
 		<td>
 			<a href="#">
@@ -159,10 +163,11 @@
 			</a>
 		</td>
 	</tr>
-</table>
-
-<table>
-	<thead><h2>Web Development</h2></thead>
+	<tr>
+		<td colspan="4" align="center">
+			<h2>Web Development</h2>
+		</td>
+	</tr>
 	<tr>
 		<td>
 			<a href="#">
@@ -186,7 +191,6 @@
 		</td>
 	</tr>
 </table>
-
 </div>
 
 </details>
