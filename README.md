@@ -144,11 +144,6 @@
 		</td>
 		<td>
 			<a href="#">
-				<img src="./svg/cpp.svg" alt="C++" height=55 />
-			</a>
-		</td>
-		<td>
-			<a href="#">
 				<img src="./svg/csharp.svg" alt="C#" height=55 />
 			</a>
 		</td>
@@ -190,7 +185,36 @@
 			</a>
 		</td>
 	</tr>
+	<tr>
+		<td colspan="4" align="center">
+			<h3>🧰 Frameworks and Libraries</h3>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="#">
+				<img alt="Vaadin" src="icons/vaadin.svg" height=55 />
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img alt="Spring" src="icons/spring.svg" height=55 />
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img alt=".NET Framework" src="icons/microsoft-net-framework.png" height=55 />
+			</a>
+		</td>
+		<td>
+			<a href="#">
+				<img alt="VueJS" src="icons/vue.svg" height=55 />
+			</a>
+		</td>
+	</tr>
+	<!-- Add the rest of your sections in the same way -->
 </table>
+
 </div>
 
 </details>
