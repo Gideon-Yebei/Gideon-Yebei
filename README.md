@@ -19,40 +19,44 @@
 
 <table>
 	<tr>
-		<td align="center">
+		<td>
 			<h3>
-				👨‍💻 I'm Gideon, a passionate software engineer and tech enthusiast from Kenya 🇰🇪
+				👨‍💻 Gideon here, a passionate software engineer and tech enthusiast from Kenya 🇰🇪
 			</h3>
 		</td>
 	</tr>
 	<tr>
-		<td align="center">
+		<td>
 			<h3>
-				As a devoted disciple of computer science, I'm on an epic quest to evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms
+				I'm currently pursuing a Bachelor's degree in Computer Science at Kenyatta University and also a student at <a href="https://www.alxafrica.com" target="_blank">ALX Africa</a>, where I'm honing my skills in software engineering and web development.
+				I'm always looking for new opportunities to learn and grow.
 			</h3>
 		</td>
 	</tr>
 	<tr>
-		<td align="center">
+		<td>
 			<h3>
-				I'm also diving deep into the realms of AI/ML, fascinated by their potential to revolutionize our digital world, all while championing the noble cause of cybersecurity
+				I have a good understanding of data structures and algorithms, and I'm proficient in C, Java. I'm also familiar with web technologies like HTML, CSS, and JS. I'm currently learning VueJS and NodeJS + ExpressJS to build full-stack PWAs.
 			</h3>
 		</td>
 	</tr>
 	<tr>
-		<td align="center">
+		<td>
 			<h3>
-				Fueled by my passion for tech, I eagerly tackle challenges with an innovative and collaborative mindset, holding dear the values of open source, progress, and lifelong learning. 🚀
+				I'm passionate about open-source and love to contribute to projects that help make the world a better place. I'm also a huge fan of the <a href="https://www.gnu.org/philosophy/free-sw.html" target="_blank">free software movement</a> and believe that software should be free and accessible to everyone. I always keep up with the latest tech trends and love to experiment with new technologies.
+			</h3>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h3>
+				When I'm not coding, you'll find me reading, writing, or playing video games. I'm also a huge fan of animations and like to play around with <a href="https://blender.org">blender</a>. I'm always up for a good conversation, so feel free to reach out to me if you want to chat or collaborate on a project.
 			</h3>
 		</td>
 	</tr>
 </table>
 
 </div>
-
----
-
-<h2 align="center">: : Let's 📬 Get In Touch ✉️ Reach Out : :</h2>
 
 <table align="center">
 	<tr>
