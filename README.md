@@ -60,62 +60,64 @@
 
 <table align="center">
 	<tr>
-	<td align="center">
+		<td align="center">
 			<a href="https://echosodyssey.rf.gd" target="\_blank">
-			<h1>
 				<img src="./svg/web.svg" alt="Website" height=55 />
-			</h1>
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://github.com/Gideon-Yebei" target="_blank">
-			<h1><img src="./svg/github.svg" alt="GitHub" height=55 /></h1>
+				<img src="./svg/github.svg" width="55" alt="github" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="mailto:hk-axl-coder@proton.me" target="_blank">
-			<h1><img src="./svg/protonmail.svg" alt="Email" height=55 /></h1>
+				<img src="./svg/protonmail.svg" width="55" alt="gmail" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://linkedin.com/in/gideon-yebei" target="_blank">
-			<h1><img src="./svg/linkedin.svg" alt="LinkedIn" height=55 /></h1>
+				<img src="./svg/linkedin.svg" width="55" alt="linkedin" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://twitter.com/GideonYebei" target="_blank">
-			<h1><img src="./svg/twitter.svg" alt="Twitter" height=55 /></h1>
+				<img src="./svg/twitter.svg" width="55" alt="twitter" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://www.instagram.com/calcare_spellbound/" target="_blank">
-			<h1><img src="./svg/instagram.svg" alt="Instagram" height=55 /></h1>
+				<img src="./svg/instagram.svg" width="55" alt="instagram" />
 			</a>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<a href="https://m.facebook.com/profile.php/?id=100088037815575" target="_blank">
-			<h1><img src="./svg/facebook.svg" alt="Facebook" height=55 /></h1>
+				<img src="./svg/facebook.svg" width="55" alt="facebook" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://stackoverflow.com/users/HK-AXL-CODER" target="_blank">
-			<h1><img src="./svg/stackoverflow.svg" alt="Stack Overflow" height=55 /></h1>
+				<img src="./svg/stackoverflow.svg" width="55" alt="stack-overflow" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://twitter.com/GideonYebei" target="_blank">
-			<h1><img src="./svg/dribbble.svg" alt="Dribbble" height=55 /></h1>
+				<img src="./svg/dribbble.svg" width="55" alt="dribbble" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://twitter.com/GideonYebei" target="_blank">
-			<h1><img src="./svg/medium.svg" alt="medium" height=55 /></h1>
+				<img src="./svg/medium.svg" width="55" alt="medium" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://hashnode.com/@ZenithNova" target="_blank">
-			<h1><img src="./svg/hashnode.svg" alt="Hashnode" height=55 /></h1>
+				<img src="./svg/hashnode.svg" width="55" alt="hashnode" />
 			</a>
+		</td>
+		<td align="center">
 		</td>
 	</tr>
 </table>
