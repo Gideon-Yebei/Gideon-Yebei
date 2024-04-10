@@ -19,10 +19,14 @@
 
 <table>
 	<tr>
-		<td>
+		<td align="center">
 			<h3>
 				👨‍💻 I'm Gideon, a passionate software engineer and tech enthusiast from Kenya 🇰🇪
 			</h3>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<h3>
 				As a devoted disciple of computer science, I'm on an epic quest to evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms
 			</h3>
