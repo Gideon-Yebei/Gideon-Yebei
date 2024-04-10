@@ -132,7 +132,7 @@
 
 <table>
 	<tr>
-		<td colspan="1/-1" align="center">
+		<td colspan="1000" align="center">
 			<h2>Programming Languages</h2>
 		</td>
 	</tr>
@@ -159,7 +159,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="1/-1" align="center">
+		<td colspan="1000" align="center">
 			<h2>Web Development</h2>
 		</td>
 	</tr>
@@ -181,7 +181,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="1/-1" align="center">
+		<td colspan="1000" align="center">
 			<h3>🧰 Frameworks and Libraries</h3>
 		</td>
 	</tr>
