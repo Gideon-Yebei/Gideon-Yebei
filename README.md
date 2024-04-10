@@ -295,6 +295,13 @@
     height=55
   />
 </a>
+<a href="#">
+  <img
+    alt="azure-devops"
+    src="icons/azure-devops.jpg"
+    height=55
+  />
+</a>
 
   <h3>💻 Software and Tools</h3>
 
