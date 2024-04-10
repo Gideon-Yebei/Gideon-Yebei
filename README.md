@@ -348,9 +348,12 @@
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<a href="https://app.daily.dev/gideonkipkemoiyebei">
-<img src="https://api.daily.dev/devcards/v2/eFmIqrWAHzBHKdTV4Us8f.png?r=vot&type=default" 
-width="356" alt="GIDEON KIPKEMOI YEBEI's Dev Card"/></a>
+<a href="https://app.daily.dev/echosodyssey">
+ <img src="https://api.daily.dev/devcards/v2/eFmIqrWAHzBHKdTV4Us8f.png?type=default&r=vq0" 
+  width="356" 
+  alt="ECHOs Odyssey's Dev Card"
+ />
+</a>
 
 </details>
 
