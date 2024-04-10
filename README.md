@@ -20,7 +20,6 @@
 ---
 
 <h2 align="center">
-  portfolio website here:
   <a href="https://echosodyssey.rf.gd" target="\_blank">https://echosodyssey.rf.gd</a>
 </h2>
 
