@@ -16,9 +16,13 @@
 		<td align="center">
 			As a devoted disciple of computer science, I'm on an epic quest to evolve into a formidable full-stack developer capable of crafting innovative solutions for web, mobile, and desktop platforms
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			I'm also diving deep into the realms of AI/ML, fascinated by their potential to revolutionize our digital world, all while championing the noble cause of cybersecurity
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			Fueled by my passion for tech, I eagerly tackle challenges with an innovative and collaborative mindset, holding dear the values of **open source, progress, and lifelong learning. 🚀**
 		</td>
