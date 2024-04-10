@@ -36,14 +36,14 @@
 	<tr>
 		<td>
 			<h3>
-				I have a good understanding of data structures and algorithms, and I'm proficient in C, Java. I'm also familiar with web technologies like HTML, CSS, and JS. I'm currently learning VueJS and NodeJS + ExpressJS to build full-stack PWAs.
+				I have a pretty good understanding of data structures and algorithms, and I'm proficient in C and Java. I'm also familiar with web technologies like HTML, CSS, and JS. I'm currently learning VueJS and NodeJS + ExpressJS to build full-stack PWAs. AI and machine learning are also areas that I'm interested in and would like to explore further.
 			</h3>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<h3>
-				I'm passionate about open-source and love to contribute to projects that help make the world a better place. I'm also a huge fan of the <a href="https://www.gnu.org/philosophy/free-sw.html" target="_blank">free software movement</a> and believe that software should be free and accessible to everyone. I always keep up with the latest tech trends and love to experiment with new technologies.
+				I'm a huge fan of the <a href="https://www.gnu.org/philosophy/free-sw.html" target="_blank">free software movement</a> and believe that software should be free and accessible to everyone. Keeping up and experimenting with the latest tech trends is something I enjoy doing and ensures that I'm always up-to-date with the latest tools and technologies. I active engage in different tech communities to enhance my knowledge and get different perspectives on various topics in tech.
 			</h3>
 		</td>
 	</tr>
