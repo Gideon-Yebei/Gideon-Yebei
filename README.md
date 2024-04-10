@@ -9,7 +9,9 @@
 <table align="center">
 	<tr>
 		<td align="center">
-			<h2>Ahoy, fellow explorer!</h2>
+			Ahoy, fellow explorer!
+		</td>
+		<td align="center">
 			<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 		</td>
 	</tr>
