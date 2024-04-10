@@ -193,22 +193,27 @@
 	<tr>
 		<td>
 			<a href="#">
-				<img alt="Vaadin" src="icons/vaadin.svg" height=55 />
+				<img alt="Vaadin" src="./svg/vaadin.svg" height=55 />
 			</a>
 		</td>
 		<td>
 			<a href="#">
-				<img alt="Spring" src="icons/spring.svg" height=55 />
+				<img alt="Spring" src="./svg/springboot.svg" height=55 />
 			</a>
 		</td>
 		<td>
 			<a href="#">
-				<img alt=".NET Framework" src="icons/microsoft-net-framework.png" height=55 />
+				<img alt=".NET Framework" src="./svg/dot-net.svg" height=55 />
 			</a>
 		</td>
 		<td>
 			<a href="#">
-				<img alt="VueJS" src="icons/vue.svg" height=55 />
+				<img alt="VueJS" src="./svg/vue.svg" height=55 />
+			</a>
+		</td>
+			<td>
+			<a href="#">
+				<img alt="VueJS" src="./svg/nodejs.svg" height=55 />
 			</a>
 		</td>
 	</tr>
