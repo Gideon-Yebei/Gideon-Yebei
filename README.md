@@ -224,6 +224,12 @@
     height=55
   />
 </a>
+<a href="#">
+  <img
+    alt="VueJS"
+    src="icons/vue.svg"
+    height=55
+  />
 
   <h3>Scripting Languages</h3>
 
