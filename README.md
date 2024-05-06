@@ -222,7 +222,6 @@
 			</a>
 		</td>
 	</tr>
-	<!-- Add the rest of your sections in the same way -->
 </table>
 
 </div>
@@ -231,7 +230,7 @@
 
 ---
 
-<table align="center">
+<!--<table align="center">
 	<tr>
 		<td align="center">
 			<b>
@@ -239,9 +238,9 @@
 			</b>
 		</td>
 	</tr>
-</table>
+--></table>
 
-<details>
+<!--<details>
 
 <summary>STATS</summary>
 
@@ -253,9 +252,11 @@
 
 </div>
 
-</details>
+</details>-->
 
 ---
+
+<!--
 
 <div align="center">
 
@@ -300,5 +301,5 @@
 		</td>
 	</tr>
 </table>
-
+-->
 </div>
