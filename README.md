@@ -230,7 +230,7 @@
 
 ---
 
-<!--<table align="center">
+<table align="center">
 	<tr>
 		<td align="center">
 			<b>
@@ -238,13 +238,16 @@
 			</b>
 		</td>
 	</tr>
---></table>
+</table>
 
-<!--<details>
+<details>
 
 <summary>STATS</summary>
 
 <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Yebei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gideon-Yebei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <a href="https://app.daily.dev/echosodyssey">
 	<img src="https://api.daily.dev/devcards/v2/eFmIqrWAHzBHKdTV4Us8f.png?type=wide&r=vko" width="652" alt="ECHOs Odyssey's Dev Card"/>
@@ -252,11 +255,8 @@
 
 </div>
 
-</details>-->
 
 ---
-
-<!--
 
 <div align="center">
 
@@ -301,5 +301,7 @@
 		</td>
 	</tr>
 </table>
--->
+
 </div>
+
+</details>
