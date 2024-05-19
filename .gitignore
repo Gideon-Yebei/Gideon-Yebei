@@ -1,7 +1,7 @@
 ### Own
 R.md
-/icons
-/svg
+icons/
+svg/
 ### Maven template
 target/
 pom.xml.tag
