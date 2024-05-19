@@ -3,4 +3,4 @@
 <h2 align="center">Software Engineer And AI/ML Enthusiast and Explorer</h2>
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="30" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="30" /> About Me
