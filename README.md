@@ -100,23 +100,12 @@
 <a href="https://leetcode.com/u/echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rohansrma/" width="50" /></a>
 <a href="https://www.hackerearth.com/@ECHOsOdyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@specialrohansharma200" width="50" /></a>
 <a href="https://www.geeksforgeeks.org/user/gideontwb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohansrma007/profile/" width="50" /></a>
-<a href="https://dev.to/gideonyebei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gideonyebei" height="30" width="40" /></a>
-<a href="https://twitter.com/echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="echosodyssey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gideon-yebei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gideon-yebei" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/echos-odyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="echos-odyssey" height="30" width="40" /></a>
-<a href="https://kaggle.com/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zenithnova" height="30" width="40" /></a>
-<a href="https://fb.com/calcare spellbound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="calcare spellbound" height="30" width="40" /></a>
-<a href="https://instagram.com/calcare_spellbound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calcare_spellbound" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ECHOsOdyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="gideon-yebei" height="30" width="40" /></a>
-<a href="https://medium.com/@echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@echosodyssey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/echosodyssey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="echosodyssey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="echosodyssey" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hk-axl-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hk-axl-coder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="echosodyssey" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@echosodyssey" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gideontwb6/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gideontwb6/profile" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenithnova" height="30" width="40" /></a>
-<a href="https://discord.gg/user/echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="echosodyssey" height="30" width="40" /></a>
+<a href="https://dev.to/gideonyebei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gideonyebei" width="50" /></a>
+<a href="https://stackoverflow.com/users/echos-odyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="echos-odyssey" width="50" /></a>
+<a href="https://kaggle.com/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zenithnova" width="50" /></a>
+<a href="https://echosodyssey.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@echosodyssey" width="50" /></a>
+<a href="https://codeforces.com/profile/hk-axl-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hk-axl-coder" width="50" /></a>
+<a href="https://www.topcoder.com/members/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenithnova" width="50" /></a>
 
 </p>
 
@@ -132,7 +121,7 @@
 
 <!-- quotes -->
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> 
+    <img src="./gifs/Hand.webp" alt="Writing Hand" width="25" height="25" /> 
     ℝ𝕒𝕟𝕕𝕠𝕞 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖𝕤
 </h1>
 <p align="center">
