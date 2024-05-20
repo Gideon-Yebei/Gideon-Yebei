@@ -93,6 +93,7 @@
 -->
 
 <p align="center">
+
 <a href="https://hashnode.com/@ECHOsOdyssey" target="blank"><img align="center" src="./gifs/hashnode.svg" alt="https://hashnode.com/@rrs007" width="50" /></a>
 <a href="https://www.codechef.com/users/echosodyssey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rohansrma" width="50" /></a>
 <a href="https://www.hackerrank.com/profile/ECHOsOdyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/specialrohansha1" width="50" /></a>
@@ -116,6 +117,7 @@
 <a href="https://auth.geeksforgeeks.org/user/gideontwb6/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gideontwb6/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenithnova" height="30" width="40" /></a>
 <a href="https://discord.gg/user/echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="echosodyssey" height="30" width="40" /></a>
+
 </p>
 
 <!-- stats -->
