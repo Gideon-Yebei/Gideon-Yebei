@@ -92,7 +92,7 @@
 
 -->
 
-<p align="center">
+<div align="center">
 
 <a href="https://hashnode.com/@ECHOsOdyssey" target="blank"><img align="center" src="./gifs/hashnode.svg" alt="https://hashnode.com/@rrs007" width="50" /></a>
 <a href="https://www.codechef.com/users/echosodyssey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rohansrma" width="50" /></a>
@@ -107,7 +107,7 @@
 <a href="https://codeforces.com/profile/hk-axl-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hk-axl-coder" width="50" /></a>
 <a href="https://www.topcoder.com/members/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenithnova" width="50" /></a>
 
-</p>
+</div>
 
 <!-- stats -->
 <!--<h1 align="center">𝕊𝕥𝕒𝕥𝕤</h1>-->
