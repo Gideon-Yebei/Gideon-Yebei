@@ -124,10 +124,13 @@
     <img src="./gifs/Hand.webp" alt="Writing Hand" width="25" height="25" /> 
     ℝ𝕒𝕟𝕕𝕠𝕞 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖𝕤
 </h1>
+
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </p>
-
+<div align="center">
+    <a href="https://www.cakeresume.com/calcare-spellbound">Resume</a>
+</div>
 
 <!-- footer -->
 <p align="center">
