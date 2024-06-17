@@ -5,7 +5,7 @@
 </div>-->
 
 <h1 align="center">
-    ᕼᎥ 
+    ᕼᎥ
     <img src="./gifs/Waving.png" alt="Waving Hand" width="25" height="25" />,
     Ꭵ'ᗰ ǤᎥᗪᗴᗝᑎ-ƳᗴᗷᗴᎥ
 </h1>
@@ -24,6 +24,9 @@
     <a href="https://linkedin.com/in/gideon-yebei" target="blank">
         <img src="./gifs/LinkedIn.gif" width="70" alt="LinkedIn">
     </a>
+  <a href="https://wa.me/+254702497805" target="blank">
+        <img src="./gifs/whatsapp.gif" width="70" alt="LinkedIn">
+    </a>
     <a href="https://twitter.com/ECHOsOdyssey" target="blank">
         <img src="./gifs/Twitter.gif" width="70" alt="Twitter">
     </a>
@@ -37,7 +40,7 @@
 
 <!-- about me -->
 <h1 align="center">
-    <img src="./gifs/Dizzy.webp" alt="Dizzy" width="30" /> 
+    <img src="./gifs/Dizzy.webp" alt="Dizzy" width="30" />
     𝔸𝕓𝕚𝕥 𝔸𝕓𝕠𝕦𝕥 𝕄𝕪𝕤𝕖𝕝𝕗
 </h1>
 <p align="center">
@@ -46,7 +49,7 @@
 
 <!-- Tech Stack -->
 <h1 align="center">
-    <img src="./gifs/Laptop.webp" alt="Laptop" width="25" height="25" /> 
+    <img src="./gifs/Laptop.webp" alt="Laptop" width="25" height="25" />
     𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 </h1>
 <!-- Languages and Tools -->
@@ -68,7 +71,7 @@
 <!-- Stats -->
 <!--
 <h1 align="left">
-    <img src="./gifs/Chart.webp" alt="Technologist" width="25" height="25" /> 
+    <img src="./gifs/Chart.webp" alt="Technologist" width="25" height="25" />
     𝕊𝕥𝕒𝕥𝕤
 </h1>
 
@@ -121,7 +124,7 @@
 
 <!-- quotes -->
 <h1 align="center">
-    <img src="./gifs/Hand.webp" alt="Writing Hand" width="25" height="25" /> 
+    <img src="./gifs/Hand.webp" alt="Writing Hand" width="25" height="25" />
     ℝ𝕒𝕟𝕕𝕠𝕞 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖𝕤
 </h1>
 
@@ -134,5 +137,5 @@
 
 <!-- footer -->
 <p align="center">
-    𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕧𝕚𝕤𝕚𝕥𝕚𝕟𝕘 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖! 🤗. 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕣𝕖𝕒𝕥 𝕕𝕒𝕪! 🌟 
+    𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕧𝕚𝕤𝕚𝕥𝕚𝕟𝕘 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖! 🤗. 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕣𝕖𝕒𝕥 𝕕𝕒𝕪! 🌟
 </p>
