@@ -1,9 +1,3 @@
-<!--<div align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E2%84%8D%F0%9D%95%96%F0%9D%95%AA..+%F0%9D%95%80'%F0%9D%95%9E+%F0%9D%94%BE%F0%9D%95%9A%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A0%F0%9D%95%9F-%F0%9D%95%90%F0%9D%95%96%F0%9D%95%93%F0%9D%95%96%F0%9D%95%9A;%F0%9D%95%8B%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%A4+%F0%9D%95%9A%F0%9D%95%A4+%F0%9D%95%9E%F0%9D%95%AA+%F0%9D%94%BE%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%A6%F0%9D%95%93.." alt="Typing SVG" />
-</a>
-</div>-->
-
 <h1 align="center">
     ᕼᎥ
     <img src="./gifs/Waving.png" alt="Waving Hand" width="25" height="25" />,
@@ -12,11 +6,11 @@
 
 <!-- introduction -->
 
-<!--
-<h2 align="left">
-    𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣, 𝔸𝕀/𝕄𝕃 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥 𝕒𝕟𝕕 𝔼𝕩𝕡𝕝𝕠𝕣𝕖𝕣 𝔽𝕣𝕠𝕞 ℕ𝕒𝕚𝕣𝕠𝕓𝕚, 𝕂𝕖𝕟𝕪𝕒
+<h2 align="center">
+    𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣, 𝔸𝕀/𝕄𝕃 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥 𝕒𝕟𝕕 𝔼𝕩𝕡𝕝𝕠𝕣𝕖𝕣
 </h2>
--->
+
+---
 
 <!-- social links -->
 <h1 align="center">ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕆𝕟</h1>
@@ -38,6 +32,8 @@
     </a>
 </p>
 
+---
+
 <!-- about me -->
 <h1 align="center">
     <img src="./gifs/Dizzy.webp" alt="Dizzy" width="30" />
@@ -47,11 +43,14 @@
 𝕀'𝕞 𝕤𝕦𝕡𝕖𝕣 𝕚𝕟𝕥𝕠 𝕤𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕒𝕟𝕕 𝕝𝕠𝕧𝕖𝕤 𝕕𝕚𝕧𝕚𝕟𝕘 𝕚𝕟𝕥𝕠 𝕤𝕥𝕦𝕗𝕗 𝕝𝕚𝕜𝕖 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖, 𝔸𝕀 & 𝕄𝕃 𝕒𝕟𝕕 𝕖𝕩𝕡𝕝𝕠𝕣𝕚𝕟𝕘 𝕥𝕙𝕖 𝕝𝕒𝕥𝕖𝕤𝕥 𝕥𝕖𝕔𝕙 𝕥𝕣𝕖𝕟𝕕𝕤. 𝕆𝕣𝕚𝕘𝕚𝕟𝕒𝕝𝕝𝕪 𝕗𝕣𝕠𝕞 ℕ𝕒𝕚𝕣𝕠𝕓𝕚, 𝕂𝕖𝕟𝕪𝕒, 𝕀'𝕞 𝕒𝕝𝕝 𝕒𝕓𝕠𝕦𝕥 𝕦𝕤𝕚𝕟𝕘 𝕥𝕖𝕔𝕙 𝕥𝕠 𝕥𝕒𝕔𝕜𝕝𝕖 𝕓𝕚𝕘 𝕔𝕙𝕒𝕝𝕝𝕖𝕟𝕘𝕖𝕤. 𝕀'𝕞 𝔼𝕩𝕔𝕚𝕥𝕖𝕕 𝕥𝕠 𝕔𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕖 𝕒𝕟𝕕 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕒𝕟𝕕 𝕔𝕒𝕟'𝕥 𝕨𝕒𝕚𝕥 𝕥𝕠 𝕓𝕣𝕚𝕟𝕘 𝕞𝕪 𝕤𝕜𝕚𝕝𝕝𝕤 𝕥𝕠 𝕥𝕙𝕖 𝕥𝕒𝕓𝕝𝕖 𝕚𝕟 𝕥𝕙𝕖 𝕥𝕖𝕔𝕙 𝕚𝕟𝕕𝕦𝕤𝕥𝕣𝕪!
 </p>
 
+---
+
 <!-- Tech Stack -->
 <h1 align="center">
     <img src="./gifs/Laptop.webp" alt="Laptop" width="25" height="25" />
     𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 </h1>
+
 <!-- Languages and Tools -->
 <div align="center">
     <img src="./gifs/HTML.gif" width="80" alt="HTML">
@@ -67,60 +66,7 @@
     <img src="./gifs/Firebase.gif" width="84" alt="Firebase">
 </div>
 
-
-<!-- Stats -->
-<!--
-<h1 align="left">
-    <img src="./gifs/Chart.webp" alt="Technologist" width="25" height="25" />
-    𝕊𝕥𝕒𝕥𝕤
-</h1>
-
-<details>
-
-<summary>𝕊𝕥𝕒𝕥𝕤</summary>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gideon-Yebei&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gideon-Yebei&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gideon-Yebei&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gideonhttps://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp-Yebei&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gideon-Yebei&theme=radical&utcOffset=8)
-[![ECHOsOdyssey's GitHub | Stats](https://stats.quine.sh/ECHOsOdyssey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ECHOsOdyssey)
-[![ECHOsOdyssey's GitHub | Stats](https://stats.quine.sh/ECHOsOdyssey/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ECHOsOdyssey)
-
-</div>
-
-</details>
-
--->
-
-<div align="center">
-
-<a href="https://hashnode.com/@ECHOsOdyssey" target="blank"><img align="center" src="./gifs/hashnode.svg" alt="https://hashnode.com/@rrs007" width="50" /></a>
-<a href="https://www.codechef.com/users/echosodyssey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rohansrma" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/ECHOsOdyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/specialrohansha1" width="50" /></a>
-<a href="https://leetcode.com/u/echosodyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rohansrma/" width="50" /></a>
-<a href="https://www.hackerearth.com/@ECHOsOdyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@specialrohansharma200" width="50" /></a>
-<a href="https://www.geeksforgeeks.org/user/gideontwb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohansrma007/profile/" width="50" /></a>
-<a href="https://dev.to/gideonyebei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gideonyebei" width="50" /></a>
-<a href="https://stackoverflow.com/users/echos-odyssey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="echos-odyssey" width="50" /></a>
-<a href="https://kaggle.com/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zenithnova" width="50" /></a>
-<a href="https://echosodyssey.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@echosodyssey" width="50" /></a>
-<a href="https://codeforces.com/profile/hk-axl-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hk-axl-coder" width="50" /></a>
-<a href="https://www.topcoder.com/members/zenithnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenithnova" width="50" /></a>
-
-</div>
-
-<!-- stats -->
-<!--<h1 align="center">𝕊𝕥𝕒𝕥𝕤</h1>-->
-<!-- top languages -->
-<!--<h1 align="center">𝕋𝕠𝕡 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h1>-->
-<!-- visitor count -->
-<!--<h1 align="center">𝕍𝕚𝕤𝕚𝕥𝕠𝕣 𝕔𝕠𝕦𝕟𝕥</h1>-->
-<!--<p align="center">
-    <img src="https://profile-counter.glitch.me/Gideon-Yebei/count.svg" alt="Visitor Count" />
-</p>-->
+---
 
 <!-- quotes -->
 <h1 align="center">
@@ -131,11 +77,85 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </p>
+
+<!--
 <div align="center">
     <a href="https://www.cakeresume.com/calcare-spellbound">Resume</a>
 </div>
+-->
+
+---
 
 <!-- footer -->
 <p align="center">
     𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕧𝕚𝕤𝕚𝕥𝕚𝕟𝕘 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖! 🤗. 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕣𝕖𝕒𝕥 𝕕𝕒𝕪! 🌟
 </p>
+
+---
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://hashnode.com/@ECHOsOdyssey" target="blank">
+        <img align="center" src="./gifs/hashnode.svg" alt="https://hashnode.com/@rrs007" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/echosodyssey" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rohansrma" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/ECHOsOdyssey" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/specialrohansha1" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/echosodyssey" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rohansrma/" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerearth.com/@ECHOsOdyssey" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@specialrohansharma200" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/gideontwb6" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohansrma007/profile/" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dev.to/gideonyebei" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gideonyebei" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/echos-odyssey" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="echos-odyssey" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/zenithnova" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zenithnova" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://echosodyssey.medium.com" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@echosodyssey" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/hk-axl-coder" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hk-axl-coder" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.topcoder.com/members/zenithnova" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenithnova" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
