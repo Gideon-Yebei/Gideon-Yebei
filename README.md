@@ -1,10 +1,9 @@
-<h1 align="center">
+<!--<h1 align="center">
     ᕼᎥ
     <img src="./gifs/Waving.png" alt="Waving Hand" width="25" height="25" />,
     Ꭵ'ᗰ ǤᎥᗪᗴᗝᑎ-ƳᗴᗷᗴᎥ
 </h1>
 
-<!-- introduction -->
 
 <h2 align="center">
     𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣, 𝔸𝕀/𝕄𝕃 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥 𝕒𝕟𝕕 𝔼𝕩𝕡𝕝𝕠𝕣𝕖𝕣
@@ -12,7 +11,7 @@
 
 ---
 
-<!-- social links -->
+
 <h1 align="center">ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕆𝕟</h1>
 <p align="center">
     <a href="https://linkedin.com/in/gideon-yebei" target="blank">
@@ -34,7 +33,7 @@
 
 ---
 
-<!-- about me -->
+
 <h1 align="center">
     <img src="./gifs/Dizzy.webp" alt="Dizzy" width="30" />
     𝔸𝕓𝕚𝕥 𝔸𝕓𝕠𝕦𝕥 𝕄𝕪𝕤𝕖𝕝𝕗
@@ -45,13 +44,13 @@
 
 ---
 
-<!-- Tech Stack -->
+
 <h1 align="center">
     <img src="./gifs/Laptop.webp" alt="Laptop" width="25" height="25" />
     𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 </h1>
 
-<!-- Languages and Tools -->
+
 <div align="center">
     <img src="./gifs/HTML.gif" width="80" alt="HTML">
     <img src="./gifs/CSS.gif" width="73" alt="CSS">
@@ -68,7 +67,7 @@
 
 ---
 
-<!-- quotes -->
+
 <h1 align="center">
     <img src="./gifs/Hand.webp" alt="Writing Hand" width="25" height="25" />
     ℝ𝕒𝕟𝕕𝕠𝕞 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖𝕤
@@ -78,15 +77,14 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </p>
 
-<!--
+
 <div align="center">
     <a href="https://www.cakeresume.com/calcare-spellbound">Resume</a>
 </div>
--->
 
 ---
 
-<!-- footer -->
+
 <p align="center">
     𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕧𝕚𝕤𝕚𝕥𝕚𝕟𝕘 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖! 🤗. 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕣𝕖𝕒𝕥 𝕕𝕒𝕪! 🌟
 </p>
@@ -159,3 +157,4 @@
 </table>
 
 ---
+-->
