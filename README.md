@@ -1,4 +1,4 @@
-# Hi there 👋, Aliens 👽
+# Hi there <img src="./gifs/Waving.png" alt="Waving Hand" width="30" height="30" />, Aliens 👽
 
 <!--
 <h1 align="center">
